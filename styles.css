@@ -1,0 +1,206 @@
+
+
+/*change the background color of the entire page to pink*/
+
+body {
+ background-color: #e4b2ba;
+}
+
+/*add a border around heading, change its background color to yellow and set the font*/
+
+h1 {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ background-color: #c9c974; 
+ border-style: solid; 
+ border-color: black;
+ border-radius: 5px;
+ text-align: center;
+ text-emphasis: bold;
+}
+
+/*add a border around each image and set its color to ivory*/
+
+img {
+ border-style: solid;
+ border-color: #ebe8e2;
+ border-radius: 1px;
+ padding: 5px;
+ background-color: #ebe8e2;
+ }
+
+ /*add a border around each paragraph, set its background color to yellow and set the font*/
+
+p {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ background-color: #c9c974;
+ border-style: solid;
+ border-color: black;
+ border-radius: 5px;
+ padding: 7px;
+ }
+
+ header {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+ /*add a border around h2 and h3 elements, change their background colors to blue and set the font*/
+
+h2 {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ background-color: rgb(148, 208, 208);
+ border-style: solid;
+ border-color: black;
+ border-radius: 5px;
+ text-align: center;
+ padding: 3px;
+}
+
+h3 {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ background-color: rgb(148, 208, 208);
+ border-style: solid;
+ border-color: black;
+ border-radius: 5px;
+ text-align: center;
+ text-emphasis: bold;  
+}
+
+/*put a border around all table elements and set the background color to yellow and aligned the entire table to center
+and set the font for the table data*/
+
+table {
+ margin: auto;
+ width: 1000px;
+ border:1px
+}
+
+th {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ border: 1px;
+ background-color: #c9c974;
+ border-color: black;
+ border-radius: 3px;
+ border-style: solid;
+ border-width: 1.3px;
+}
+
+tr {
+ align-items: center;
+ border: 1px;
+ background-color: #c9c974;
+ border-color: black;
+ border-radius: 3px;
+ border-style: solid;
+ border-width: 1.3px;
+ text-align: center;
+}
+
+td {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ border: 1px;
+ background-color: #c9c974;
+ border-color: black;
+ border-radius: 3px;
+ border-style: solid;
+ border-width: 1.3px;
+ text-align: center;
+}
+
+/*set the background color to yellow and set borders to my form elements*/
+
+input {
+ background-color: #d9d946;
+ border-style: solid;
+ border-color: black;
+ border-width: 1px;
+}
+
+hr {
+ border-color: black;
+ border-width: 1px;
+}
+
+/*here i set the size of all the photos*/
+
+#p1 {
+ width: 263px;
+}
+#p2 {
+ width: 263px;
+}
+#p3 {
+ width: 263px;
+}
+#p4 {
+ width: 263px;
+}
+#p5 {
+ width: 263px;
+ height: 350px;
+}
+#p6 {
+ width: 263px;
+}
+#p7 {
+ width: 263px;
+}
+#p8 {
+ width: 263px;
+}
+#p9 {
+ width: 263px;
+}
+#p10 {
+ width: 263px;
+}
+#p11 {
+ width: 263px;
+ height: 350px;
+}
+#p12 {
+ width: 263px;
+}
+#p13 {
+ width: 263px;
+}
+#p14 {
+ width: 263px;
+}
+#p15 {
+ width: 263px;
+ height: 350px;
+}
+#mosque {
+ width: 1410px;
+ height: 800px;
+}
+
+/*put a border around my links, set the background color to blue and set the font*/
+
+.link-div {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1.6px;
+    border-radius: 3px;
+    padding: 3px;
+    background-color: rgb(148, 208, 208);
+}
+
+label {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+li {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+    
+    
