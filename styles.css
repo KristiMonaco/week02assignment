@@ -98,7 +98,7 @@ tr {
 td {
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  border: 1px;
- background-color: #c9c974;
+ background-color: #cdcd4d;
  border-color: black;
  border-radius: 3px;
  border-style: solid;
@@ -109,7 +109,7 @@ td {
 /*set the background color to yellow and set borders to my form elements*/
 
 input {
- background-color: #d9d946;
+ background-color: #cdcd4d;
  border-style: solid;
  border-color: black;
  border-width: 1px;
