@@ -109,10 +109,11 @@ td {
 /*set the background color to yellow and set borders to my form elements*/
 
 input {
- background-color: #cdcd4d;
+ background-color: #ddddcf;
  border-style: solid;
  border-color: black;
  border-width: 1px;
+ border-radius: 2.25px;
 }
 
 hr {
