@@ -26,6 +26,7 @@ img {
  border-radius: 1px;
  padding: 5px;
  background-color: #ebe8e2;
+ margin: 2px;
  }
 
  /*add a border around each paragraph, set its background color to yellow and set the font*/
@@ -137,7 +138,7 @@ hr {
 }
 #p5 {
  width: 263px;
- height: 350px;
+ height: 351px;
 }
 #p6 {
  width: 263px;
@@ -156,7 +157,7 @@ hr {
 }
 #p11 {
  width: 263px;
- height: 350px;
+ height: 351px;
 }
 #p12 {
  width: 263px;
@@ -169,7 +170,8 @@ hr {
 }
 #p15 {
  width: 263px;
- height: 350px;
+ height: 351px;
+ 
 }
 
 .center { 
@@ -178,6 +180,13 @@ hr {
     margin-right: auto;
     height: 800px;
     width: 95%;
+}
+.group1 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 /*put a border around my links, set the background color to blue and set the font*/
