@@ -171,9 +171,13 @@ hr {
  width: 263px;
  height: 350px;
 }
-#mosque {
- width: 1410px;
- height: 800px;
+
+.center { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+    width: 95%;
 }
 
 /*put a border around my links, set the background color to blue and set the font*/
