@@ -71,7 +71,7 @@ and set the font for the table data*/
 
 table {
  margin: auto;
- width: 1000px;
+ width: 70%;
  border:1px
 }
 
@@ -182,11 +182,12 @@ hr {
     width: 95%;
 }
 .group1 {
-    display: flex;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
     align-items: center;
+    width: 90%;
 }
 
 /*put a border around my links, set the background color to blue and set the font*/
@@ -201,6 +202,7 @@ hr {
     padding: 3px;
     background-color: rgb(148, 208, 208);
 }
+
 
 label {
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
